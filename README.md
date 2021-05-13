@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcingrze
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data visualization
-- 💞️ I’m looking to collaborate on Data Sciece project
+- 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me ...
 
 <!---
